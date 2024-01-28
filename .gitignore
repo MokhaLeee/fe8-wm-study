@@ -1,0 +1,16 @@
+Tools/EventAssembler/
+Tools/FE-CLib-Mokha/
+
+.vscode/
+.cache_dir/
+
+*.gba
+*.sym
+
+*.o
+*.dmp
+*.lyn.event
+
+*.4bpp
+*.gbapal
+*.lz
