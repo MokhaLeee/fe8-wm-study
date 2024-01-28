@@ -1,0 +1,3 @@
+#include "Ch0.lyn.event"
+
+WorldMapPointerTable(0, EventScrWM_Beginning)

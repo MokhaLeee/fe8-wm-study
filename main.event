@@ -3,5 +3,7 @@
 ORG FreeSpace
 #endif
 
+#include "EAstdlib.event"
+
 #include "wizardry/wizardry.event"
 #include "EventWM/EventWM.event"
