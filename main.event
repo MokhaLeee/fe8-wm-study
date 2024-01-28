@@ -4,3 +4,4 @@ ORG FreeSpace
 #endif
 
 #include "wizardry/wizardry.event"
+#include "EventWM/EventWM.event"

@@ -1,4 +1,6 @@
-# fe8-chax-template
+# fe8-wm-study
+
+Study on fe8 world-map events
 
 ## Usage
 
